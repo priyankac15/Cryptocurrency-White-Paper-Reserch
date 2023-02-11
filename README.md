@@ -37,9 +37,16 @@ This Project will explore the potential in cryptocurrency, such as the security 
 
 
 <h3> KEY FINDINGS FROM THE ABOVE CHART </h3>
+
 - People have a similar likelihood of about 40% to adopt cryptocurrencies to buy commodities with different occupations or majors of study, except for the people with computer science-related backgrounds, which have a 25%  of likelihood to adopt cryptocurrencies.
 - From the survey responses, shows people with natural science-related backgrounds have the highest trust in the cryptocurrency market. 
 - We can only conclude that there is no big difference in trust between people from different professional or professional backgrounds in cryptocurrencies.
 - However, due to the limitations of the data, the sample data is not fully representative of the population.
 
+<h3> CONCLUSIONS </h3>
+
+- Many well-known companies had already started to adopt cryptocurrencies as means of payments.
+- Significant growth of adoption, yet majority of population don't show interest.
+- Other factors such as unfamiliarity being the leading key factor. 
+- VISA or Mastercard can make cryptocurrency-related transactions, but merchants and these debit card companies are still part of current monetary. 
 
