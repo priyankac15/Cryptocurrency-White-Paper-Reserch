@@ -8,4 +8,16 @@ This Project will explore the potential in cryptocurrency, such as the security 
 - The banking industry, the government, stakeholders, and private investors have expressed concern about the blockchain technology used in the use of cryptocurrencies. 
 - Since the launch of Bitcoin in 2009, the emergence of cryptocurrencies has completely overtaken the industry. It is believed that cryptocurrency would eventually displace conventional paper money across the world. 
 - Although the curiosity has drawn consumers' attention, many do not understand the potential, disadvantages, and problems it presents for the future. Studies on cryptocurrencies are still in their infancy and are limited. 
-![image](https://user-images.githubusercontent.com/117341679/218227303-5b51e2a3-f0fe-43ac-8136-c79350f2b03c.png)
+
+<h2> TABLEAU DASHBOARD: CREATED FOR MY RESEARCH QUESTION </h2>
+
+![image]()
+<b>
+  <h3> KEY FINDINGS: </h3>
+
+- We Conducted a Survey on Attitudes of People towards Cryptocurrencies and the total number of respondents of this survey is 90 people.
+- Out of which 50.56% are Female, 46.07% are Male , 1.12% is Non-Binary & 2.25% prefer not to disclose.
+- Age-Group of Participants – Most of them are in the bracket of 20-35.
+- Acceptance of Cryptocurrency as a Payroll – 62.22% are not in favor of it.
+
+</b>
