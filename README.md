@@ -9,7 +9,7 @@ This Project will explore the potential in cryptocurrency, such as the security 
 - Since the launch of Bitcoin in 2009, the emergence of cryptocurrencies has completely overtaken the industry. It is believed that cryptocurrency would eventually displace conventional paper money across the world. 
 - Although the curiosity has drawn consumers' attention, many do not understand the potential, disadvantages, and problems it presents for the future. Studies on cryptocurrencies are still in their infancy and are limited. 
 
-<h2> TABLEAU DASHBOARD: CREATED FOR MY RESEARCH QUESTION </h2>
+<h2> TABLEAU DASHBOARD: DEMOGRAPHICS OF SURVEY RESPONDENTS </h2>
 
 ![image](https://github.com/priyankac15/Cryptocurrency-White-Paper-Reserch/blob/main/CryptoCurrency_XN_Dashboard_PriyankaChandak.png)
 
@@ -22,3 +22,21 @@ This Project will explore the potential in cryptocurrency, such as the security 
 - Acceptance of Cryptocurrency as a Payroll – 62.22% are not in favor of it.
 
 </b>
+
+<h2> REASONS TO NOT ADOPT CRYPTOCURRENCIES - SURVEY FINDINGS </h2>  
+![image](https://github.com/priyankac15/Cryptocurrency-White-Paper-Reserch/blob/main/Reasons_to_not_adopt_Cryptocurrency.png)
+
+<h2> USER BEHAVIOR ANALYSIS: The value people would like to spend with crytocurrencies. </h2>
+![image](https://github.com/priyankac15/Cryptocurrency-White-Paper-Reserch/blob/main/SurveyAnalysis_PurchasingBehavior.png)
+
+<h2> COMPARISIONS ACCORDING TO DIFFERENT OCCUPATIONS AND MAJORS </H2>
+![image](https://github.com/priyankac15/Cryptocurrency-White-Paper-Reserch/blob/main/Comparisions_DifferentOccupations.png)
+
+<b>
+<h3> KEY FINDINGS FROM THE ABOVE CHART </h3>
+- People have a similar likelihood of about 40% to adopt cryptocurrencies to buy commodities with different occupations or majors of study, except for the people with computer science-related backgrounds, which have a 25%  of likelihood to adopt cryptocurrencies.
+- From the survey responses, shows people with natural science-related backgrounds have the highest trust in the cryptocurrency market. 
+- We can only conclude that there is no big difference in trust between people from different professional or professional backgrounds in cryptocurrencies.
+- However, due to the limitations of the data, the sample data is not fully representative of the population.
+</b>
+
