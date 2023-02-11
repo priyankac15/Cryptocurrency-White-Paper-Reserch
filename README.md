@@ -24,13 +24,17 @@ This Project will explore the potential in cryptocurrency, such as the security 
 </b>
 
 <h2> REASONS TO NOT ADOPT CRYPTOCURRENCIES - SURVEY FINDINGS </h2>  
+
 ![image](https://github.com/priyankac15/Cryptocurrency-White-Paper-Reserch/blob/main/Reasons_to_not_adopt_Cryptocurrency.png)
 
 <h2> USER BEHAVIOR ANALYSIS: The value people would like to spend with crytocurrencies. </h2>
+
 ![image](https://github.com/priyankac15/Cryptocurrency-White-Paper-Reserch/blob/main/SurveyAnalysis_PurchasingBehavior.png)
 
-<h2> COMPARISIONS ACCORDING TO DIFFERENT OCCUPATIONS AND MAJORS </H2>
+<h2> COMPARISIONS ACCORDING TO DIFFERENT OCCUPATIONS AND MAJORS </h2>
+
 ![image](https://github.com/priyankac15/Cryptocurrency-White-Paper-Reserch/blob/main/Comparisions_DifferentOccupations.png)
+
 <b>
 <h3> KEY FINDINGS FROM THE ABOVE CHART </h3>
 - People have a similar likelihood of about 40% to adopt cryptocurrencies to buy commodities with different occupations or majors of study, except for the people with computer science-related backgrounds, which have a 25%  of likelihood to adopt cryptocurrencies.
