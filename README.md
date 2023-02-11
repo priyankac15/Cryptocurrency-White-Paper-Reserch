@@ -35,11 +35,11 @@ This Project will explore the potential in cryptocurrency, such as the security 
 
 ![image](https://github.com/priyankac15/Cryptocurrency-White-Paper-Reserch/blob/main/Comparisions_DifferentOccupations.png)
 
-<b>
+
 <h3> KEY FINDINGS FROM THE ABOVE CHART </h3>
 - People have a similar likelihood of about 40% to adopt cryptocurrencies to buy commodities with different occupations or majors of study, except for the people with computer science-related backgrounds, which have a 25%  of likelihood to adopt cryptocurrencies.
 - From the survey responses, shows people with natural science-related backgrounds have the highest trust in the cryptocurrency market. 
 - We can only conclude that there is no big difference in trust between people from different professional or professional backgrounds in cryptocurrencies.
 - However, due to the limitations of the data, the sample data is not fully representative of the population.
-</b>
+
 
